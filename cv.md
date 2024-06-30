@@ -11,7 +11,7 @@
 I can create animations using keyframes and a burger menu, and also work with the bootstrap library.
 ## My experience
 - Programming teacher
--I teach subjects: Creating websites using html, css, using templates from figma and using BEM, flex, grid technologies
+-I teach subjects: Creating websites using html, css,using BEM, flex, grid technologies
 - Graphic design on figma
--3D modeling in blender
+- 3D modeling in blender
   ## language knowledge - A2
