@@ -14,4 +14,4 @@ I can create animations using keyframes and a burger menu, and also work with th
 -I teach subjects: Creating websites using html, css,using BEM, flex, grid technologies
 - Graphic design on figma
 - 3D modeling in blender
-  ## language knowledge - A2
+  ## language knowledge - A2 -B1
