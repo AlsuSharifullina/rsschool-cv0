@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AlsuSharifullina.github.io/rsschool-cv/
