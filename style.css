@@ -82,7 +82,8 @@ body {
 .about__title,
 .skills__title,
 .education__title,
-.code__title{
+.code__title,
+.contacts__title{
     font-size: 30px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -154,6 +155,14 @@ hr{
 
 .code__text{
     background: rgb(157, 153, 153);
-    padding: 20px;
+    padding: 40px;
     font-size: 20px;
+}
+.contacts{
+    width: 1000px;
+    margin: 100px auto;
+}
+
+.contacts__list{
+    
 }
