@@ -157,6 +157,17 @@ hr{
     background: rgb(157, 153, 153);
     padding: 40px;
     font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.code__link{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.code__link:hover{
+    text-shadow: 0 0 10px rgb(232, 10, 99);
 }
 .contacts{
     width: 1000px;
